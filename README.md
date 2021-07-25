@@ -1,6 +1,8 @@
 # Mobiliaire
 A lightweight property inventory helper
 
+## This repository has moved to GitLab. Please visit [Cordelya's GitLab](https://gitlab.com/cordelya) and you'll find the active project there.
+
 > mobiliaire (n.): Middle French form of "mobiliary"; pertaining to furniture or movable property
 
 *built for/on Django 3.1*
